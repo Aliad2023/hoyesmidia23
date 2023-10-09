@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circulo{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 50%;
+}
